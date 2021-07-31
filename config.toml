@@ -1,0 +1,4 @@
+baseURL = "https://catatan.bayusamudra.my.id/"
+languageCode = "id-id"
+title = "Sebuah Catatan Bayu"
+theme = "photophobia"
